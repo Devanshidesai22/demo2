@@ -1,0 +1,245 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.black {
+    position: relative;
+    z-index: -1;
+    height: auto;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.port {
+    color: white;
+    font-size: 18px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 16px;
+    color: white;
+}
+
+.see {
+    border-radius: 25px;
+    color: white;
+    background-color:#db0e4f;
+    margin: 12px;
+    padding: 15px;
+    border: none;
+}
+
+.main {
+    margin-top: -20%;
+}
+
+.hello {
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    margin-left: 24px;
+}
+
+.name {
+    color: white;
+    font-size:40px;
+    padding: 14px;
+
+
+}
+
+.tahmid {
+    color: white;
+    font-size:65px;
+    padding: 9px;
+}
+
+.black2 {
+    height: 79%;
+    width: 120%;
+}
+
+.main2 {
+    display: flex;
+    background-color: rgba(12,12,12,255);
+}
+
+.left {
+    padding: 74px;
+    margin: -10px;
+}
+
+.right {
+    padding: 38px;
+    margin: 33px;
+    color:white;
+    text-align: justify;
+
+
+}
+input[type=text], select{ 
+    padding: 15px;
+    width: 15px;
+    padding-right:20%;
+    padding-left: 20%;
+    border-radius: 25px;
+    
+}
+input[type=submit],select{
+    padding: 15px;
+    width:15px;
+    padding-left: 7%;
+    padding-right: 14%;
+    border: none;
+    border-radius: 25px;
+    background-color: #db0e4f;
+
+}
+
+
+.about {
+    font-size: 45px;
+    padding: 1px;
+    margin: 9px;
+
+}
+
+.dev {
+    font-size: 34px;
+    padding: 24px;
+    margin: -15px;
+
+}
+
+.book {
+    font-size: 20px;
+    text-align: justify;
+    padding: 6px;
+    margin: -3px;
+}
+
+.let {
+    margin: 8px;
+    margin-left: 5px;
+    margin-right: 35px;
+    padding: 13px;
+    padding-left: 31px;
+    padding-right: 31px;
+    color: white;
+    background-color: #ee204d;
+    border-radius: 21px;
+    border: none;
+
+}
+
+.service {
+    display: flex;
+    justify-content: center;
+    margin-top:-7%;
+}
+
+.lr1 {
+    font-size: 15px;
+
+    width: 200px;
+    text-align: justify;
+    color: white;
+    margin-left: 28px;
+
+}
+.webdevelopment {
+    margin-top: 70px;
+    padding: 40px;
+}
+
+
+.abc {
+    height: 80px;
+    padding: 60px;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.label {
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin-top: -47px;
+    margin-left: 20px;
+}
+
+.read {
+    padding: 8px;
+    margin: 11px;
+    margin-left: 78px;
+    border-radius: 25px;
+    border: none;
+    color: black;
+    background-color: #db0e4f;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+
+.ser1 {
+    margin-top:23px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+
+
+}
+
+.services1 {
+    background-color:rgba(16,16,16,255);
+    margin-top:-9%;
+
+}
+.footer{
+    padding: 25px;
+    background-color: rgba(25,25,25,255);
+}
+.me{
+    text-align: center;
+    color: white;
+    
+}
+.help{
+    padding: 13px;
+    margin: 18px;
+    border: none;
+    border-radius: 24px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #db0e4f;
+    color: white;
+    margin-left: 47%;
+}
+.footer2{
+    padding: 35px;
+    background-color: black;
+}
+.for{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.foot{
+    height:8%;
+    width: 4%; 
+    padding: 15px;
+}
